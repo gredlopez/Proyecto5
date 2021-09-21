@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-hola mundo
-nueva linea de codigo
-=======
 hola mundo digital
->>>>>>> 300cbd3144cfcf91e9faeb879dbb2108e97a877e
+nueva linea de codigo
